@@ -1,0 +1,97 @@
+/*-------------------------------First-box----------------------------------------------------------------------------*/
+.first-box {
+
+    background-color: #1F2937;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.topbar {
+    display: flex;
+    justify-content: center;
+    gap: 530px;
+    margin-top: 18px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.topbar-links {
+    width: auto;
+    display: flex;
+    gap: 18px;
+    margin-top: 6px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.headbody {
+    display: flex;
+    margin: 75px;
+    justify-content: center;
+    gap: 200px;
+
+}
+
+.headbody-left {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: 300px;
+
+}
+
+.main-title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.sub-title {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.head-button {
+    background-color: #3382F6;
+    width: 75px;
+    height: 35px;
+    border-radius: 10px;
+    border-style: none;
+
+}
+
+.headbody-right {
+    height: 250px;
+    width: 500px;
+    background-color: #aab0bd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.for-img {
+   
+    color: #F9FAF8;
+}
+
+
+/*-----------------------------------End of First-box----------------------------------------------------------------------------*/
+
+
+/*-----------------------------------Seccond-box----------------------------------------------------------------------------*/
+
+
+
+
