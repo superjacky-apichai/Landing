@@ -97,12 +97,13 @@ a {
     align-items: center;
     justify-content: center;
     gap: 50px;
+    margin: 35px;
 
 
 }
 
 .seccond-headline {
-    margin-top: 35px;
+
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
@@ -133,6 +134,88 @@ a {
     border: solid #3882F6;
 }
 
-/*--------------------------------------------------------End of Second box-------------------------------------------------------------------------*\
+/*--------------------------------------------------------End of Second box-------------------------------------------------------------------------*/
 
-  /*--------------------------------------------------------Third box-------------------------------------------------------------------------*\
+/*--------------------------------------------------------Third box-------------------------------------------------------------------------*/
+
+.third-box {
+    background-color: #E5E7EB;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    width: 750px;
+}
+
+.quote-form {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 450px;
+}
+
+
+/*--------------------------------------------------------End of Third box-------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------Fourth box-------------------------------------------------------------------------*/
+.fourth-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box4th-container {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    width: 750px;
+    height: 100px;
+    gap: 120px;
+    border-radius: 5px;
+}
+
+.box4th-head{
+    font-weight: bolder;
+    color: #E5E7EB;
+    font-size: 20px;
+}
+
+
+.box4th-sub{
+    color: #E5E7EB;
+    font-size: 17px;
+}
+
+.box4th-button{
+    background-color: #3382F6;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: none;
+    border: solid #E5E7EB;
+    color: #E5E7EB;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+/*--------------------------------------------------------End of Fourth box-------------------------------------------------------------------------*/
+.copy-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 25px;
+    font-size: 25px;
+    color: #E5E7EB;
+}
