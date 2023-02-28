@@ -12,7 +12,7 @@
 .topbar {
     display: flex;
     justify-content: center;
-    gap: 530px;
+    gap: 700px;
     margin-top: 18px;
 }
 
@@ -52,7 +52,7 @@ a {
 }
 
 .main-title {
-    font-size: 48px;
+    font-size: 45px;
     font-weight: 900;
     color: #F9FAF8;
 }
@@ -127,11 +127,11 @@ a {
     text-align: center;
 }
 
-.content {
+.contentimg {
     width: 130px;
     height: 120px;
     border-radius: 25px;
-    border: solid #3882F6;
+    
 }
 
 /*--------------------------------------------------------End of Second box-------------------------------------------------------------------------*/
